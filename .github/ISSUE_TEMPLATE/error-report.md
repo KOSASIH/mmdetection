@@ -4,6 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
+
 ---
 
 Thanks for your error report and we appreciate it a lot.

@@ -2,8 +2,9 @@
 name: Reimplementation Questions
 about: Ask about questions during model reimplementation
 title: ''
-labels: reimplementation
+labels: ''
 assignees: ''
+
 ---
 
 **Notice**

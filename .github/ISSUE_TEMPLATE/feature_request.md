@@ -4,18 +4,17 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
+
 ---
 
-**Describe the feature**
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Motivation**
-A clear and concise description of the motivation of the feature.
-Ex1. It is inconvenient when \[....\].
-Ex2. There is a recent paper \[....\], which is very helpful for \[....\].
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-**Related resources**
-If there is an official code release or third-party implementations, please also provide the information here, which would be very helpful.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
-If you would like to implement the feature and create a PR, please leave a comment here and that would be much appreciated.
